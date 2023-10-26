@@ -1,6 +1,6 @@
 # Hi, I'm [Alfredo Baratta](https://github.com/alfredo-baratta/alfredo-baratta)
 
-20-year-old college student with a passion for computer science and solid experience in using different programming languages. With a thorough understanding of various operating systems, I have demonstrated ability to work in teams and have had the opportunity to manage personal projects, some made public and open-source, related to computer science.
+21-year-old college student with a passion for computer science and solid experience in using different programming languages. With a thorough understanding of various operating systems, I have demonstrated ability to work in teams and have had the opportunity to manage personal projects, some made public and open-source, related to computer science.
 
 ## Latest works
 - [FastPaper Backend](https://github.com/alfredo-baratta/FastPaper-Backend)
